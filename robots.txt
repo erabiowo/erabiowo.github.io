@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://erabiowo.github.io/XKH/sitemap_index.txt
+Sitemap: https://erabiowo.github.io/Zdn/sitemap_index.txt
+Sitemap: https://erabiowo.github.io/lkC/sitemap_index.txt
+Sitemap: https://erabiowo.github.io/yEk/sitemap_index.txt
